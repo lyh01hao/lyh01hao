@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Yihao Lin(林逸灝).
 
 <!--
 **lyh01hao/lyh01hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-1111
+
+- 🎓 A 3rd year undergradute at Harbin Institute of Technology, majoring in computer science.
+- 🌱 Areas of interest: Machine Learning, Intelligent Agriculture, Game Development
+- ⚡ Hobby: anime, game
+- 📫 Language: Chinese, English, Japanese, Cantonese, Hokkien
