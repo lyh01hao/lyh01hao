@@ -1,4 +1,4 @@
-### Hi there 👋, I am Yihao Lin(林逸灝／りんいつこう).
+### Hi there 👋, I am Yihao Lin.
 
 <!--
 **lyh01hao/lyh01hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
