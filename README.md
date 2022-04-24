@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 A 3rd year undergradute at Harbin Institute of Technology, majoring in computer science.
-- 🌱 Areas of interest: Machine Learning, Intelligent Agriculture, Game Development
-- ⚡ Hobby: anime, game
-- 📫 Language: Chinese, English, Japanese
